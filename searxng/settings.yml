@@ -13,3 +13,6 @@ search:
   safe_search: 0
   autocomplete: "duckduckgo"
   default_locale: "nl"
+  formats:
+    - html
+    - json
