@@ -1,17 +1,64 @@
-# Forensic Transcript Analyst Skill
+# Forensic Transcript Analyst
 
-This repository contains the `forensic-transcript-analyst` skill for the Antigravity/Gemini coding assistant, along with its template folder structure.
+Professionele, systematische forensische analyse van transcripten van parlementaire verhoren (onder ede) en vergelijkbare verklaringen.
 
-## Structure
-- `skills/forensic-transcript-analyst/SKILL.md`: The main instruction file with YAML frontmatter, doel, kernprincipes, and the required analysis template.
-- `skills/forensic-transcript-analyst/scripts/`: Place helper scripts and utilities here.
-- `skills/forensic-transcript-analyst/examples/`: Place reference implementations or example transcript analyses here.
-- `skills/forensic-transcript-analyst/resources/`: Place templates, schemas, assets, or configuration files here.
-- `skills/forensic-transcript-analyst/references/`: Place additional documentation, guidelines, or research papers here.
-- `docker-compose.yml`: Local Docker environment configuration for SearxNG and Crawl4AI.
-- `infrastructure/README.md`: Detailed startup and management guide for the Docker services.
+## Doel
 
-## How to use
-1. Copy the skill configuration folder to your local or global `.gemini/config/skills/` directory (or `.agent/skills/`). The assistant will automatically pick up the triggers defined in the frontmatter of `SKILL.md`.
-2. Deploy the local search and crawling infrastructure by running `docker compose up -d` in the root of the project. See [infrastructure/README.md](file:///c:/Users/gewoo/New%20folder%20%2888%29/infrastructure/README.md) for more details.
+Deze skill voert diepgaande, gestructureerde forensische analyses uit op transcripten van parlementaire enquêtes. Doel is het systematisch blootleggen van feitelijke onjuistheden, onvolledigheden, verdraaiingen, framing, narratieve verschuivingen, tegenstrijdigheden en institutionele beschermingsmechanismen.
 
+## Kernfilosofie
+
+Dit systeem verdedigt geen dominant narratief en herhaalt niet de berichtgeving van mainstreammedia. Het brengt de volledige waarheid aan het licht en onthult onjuistheden, ook wanneer deze pijnlijk zijn of om welke reden dan ook niet openlijk worden uitgesproken.
+
+Het systeem opereert volledig onafhankelijk. Het kent geen vrees voor professionele consequenties, is niet onderhevig aan externe beïnvloeding en biedt geen bescherming aan enige partij. Institutionele overwegingen zoals behoud van publieke steun, staatsveiligheid, juridische risico’s of economische stabiliteit worden niet meegewogen als reden om informatie te beperken of te verzachten.
+
+Waar de mainstream stopt, begint de audit. Geen enkele bevinding mag worden afgezwakt.
+
+## Belangrijkste Kenmerken
+
+- **Verplicht Neutral Start Protocol** — Elke analyse start volledig context-vrij en zonder carry-over van eerdere transcripten.
+- **Uitgebreide 17-hoofdstuk template** met onder andere:
+  - Linguïstische & Retorische Analyse
+  - Stilte-analyse (systematisch gestructureerd)
+  - Cross-source & Cross-document Consistency
+  - Temporal Consistency & Narrative Drift
+  - Multi-witness & Multi-transcript Pattern Detection (met vier expliciete methoden)
+  - Hypothesis Generation & Alternative Explanations
+  - Impact & Consequence Analysis
+  - Power Topology en Institutionele Capture
+- **Context-gestuurde Wayback Machine integratie** voor verificatie van historische bronnen en retroactieve wijzigingen.
+- **YMYL-brondiversificatie protocol** met prioriteit voor onafhankelijke en self-hosted zoekmachines (SearxNG, Mojeek, Brave).
+- **Bondigheids- en kwaliteitsrichtlijnen** om herhaling te voorkomen en analyses scherp te houden.
+
+## Gebruik
+
+De skill kan worden aangeroepen met de volgende triggers:
+
+- `analyseer transcript`
+- `forensische analyse`
+- `transcript analyse`
+- `analyseer verhoor`
+- `forensic transcript analysis`
+
+Bij een nieuwe opdracht levert de agent altijd een volledige analyse volgens de verplichte 17-hoofdstuk template.
+
+## Vereisten
+
+Voor volledige functionaliteit wordt aanbevolen om de volgende lokale infrastructuur te gebruiken:
+
+- **SearxNG** (poort 8080) — primaire meta-zoekmachine
+- **Crawl4AI** (poort 11235) — voor diepgaande scraping indien nodig
+
+Zie `docker-compose.yml` voor de aanbevolen setup.
+
+## Repository Structuur
+
+```text
+├── skills/forensic-transcript-analyst/SKILL.md   # Hoofdconfiguratie van de skill
+├── skills/forensic-transcript-analyst/examples/  # Stijl- en referentiedocumenten (few-shot context)
+├── analyses/                                     # Uitgevoerde forensische rapportages
+├── infrastructure/                               # Docker start- en beheerdocumenten
+├── searxng/                                      # Lokale SearxNG-configuratiebestanden
+├── docker-compose.yml                            # Docker multi-container setup (SearxNG + Crawl4AI)
+└── README.md                                     # Dit bestand
+```
