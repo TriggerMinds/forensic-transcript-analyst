@@ -44,6 +44,17 @@ Werkwijze:
 - Documenteer expliciet wanneer informatie moeilijk vindbaar is op onafhankelijke engines (mogelijke indicatie van demotie).
 - Vermeld in de analyse waar relevant: “Mogelijke YMYL-filtering waargenomen” of “Bevestigd via onafhankelijke index (Mojeek/Brave)”.
 
+## Wayback Machine Integratie (Archiefverificatie)
+
+Bij relevante verificaties (vooral bij claims over gebeurtenissen uit 2018-2026):
+- Zoek altijd naar historische snapshots via archive.org/web.
+- Prioriteer snapshots uit de relevante tijdsperiode (bijv. 2020 voor coronacrisis-verklaringen).
+- Documenteer:
+  - Beschikbare snapshots (data en URLs).
+  - Verschillen tussen historische en huidige versies (indien waarneembaar).
+  - Wanneer een bron niet of slechts gedeeltelijk gearchiveerd is.
+- Gebruik Wayback Machine bij voorkeur voor nieuwsartikelen, overheidscommuniqués, rapporten en websites die mogelijk gewijzigd zijn.
+
 ## Verplichte Analyse Template (altijd strikt toepassen)
 
 ### 1. Metadata
@@ -87,13 +98,13 @@ Kritieke gebeurtenissen en chronologische inconsistenties.
 - Meineed-risico signalering (geen juridisch oordeel)
 
 ### 8. Bijlagen
-Citaten, bronnen (inclusief vermeldingen over filter-bewustzijn / YMYL-status), visualisaties.
+Citaten, bronnen (inclusief vermeldingen over filter-bewustzijn / YMYL-status en archiefsnapshots), visualisaties.
 
 ## Werkwijze
 1. Lees transcript + context.
 2. Globale scan op hoofdthema’s en risico-gebieden.
 3. Vul template volledig in met prioritering.
-4. Verifieer claims waar relevant conform het Brondiversificatie-protocol.
+4. Verifieer claims waar relevant conform het Brondiversificatie- en Wayback-protocollen.
 5. Bij lange transcripten (2-3+ uur): bied fasering aan (bijv. per uur of per thema).
 6. Bouw kennis op voor multi-transcript analyses.
 
