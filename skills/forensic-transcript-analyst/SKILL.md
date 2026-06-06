@@ -179,7 +179,20 @@ Gebruik bij cross-referenties het YMYL Brondiversificatie-protocol en Wayback Ma
 - Verantwoordelijkheidneming
 - “Unknown unknowns” (opvallende stiltes)
 
-### 7. Power Topology en Institutionele Capture
+### 7. Linguïstische & Retorische Analyse
+
+Analyseer systematisch het taalgebruik en de retorische strategieën van de getuige. Documenteer de volgende elementen expliciet:
+
+- **Passief vs actief taalgebruik**: In hoeverre gebruikt de getuige passieve constructies ("er is besloten", "er werd gevraagd") om verantwoordelijkheid te verhullen of te verspreiden?
+- **Eufemismen en verkleinwoorden**: Identificeer het gebruik van verkleinende of neutraliserende termen (bijv. "oliemannetje", "brievenbus", "departementje", "een beetje", "een soort") en wat deze onthullen over framing en machtsperceptie.
+- **Ontwijkende en defensieve formuleringen**: Noteer het gebruik van zinnen als "naar mijn beste weten", "ik weet het niet meer precies", "ik bedenk wat ik bedoeld heb", "dat zal ook mee gespeeld hebben", etc. en wat dit zegt over de mate van zekerheid of strategische ontwijking.
+- **Framing en narratieve technieken**: Analyseer hoe de getuige zichzelf, zijn organisatie en others framet (bijv. als "honest broker", facilitator, of juist als slachtoffer van omstandigheden).
+- **Consistentie in woordkeuze**: Zijn er opvallende verschuivingen of herhalingen in terminologie die wijzen op bewuste framing of narratieve aanpassing?
+- **Retorische strategieën**: Identificeer patronen die dienen om verantwoordelijkheid te minimaliseren, te verschuiven of te ontwijken (bijv. generaliseren, relativeren, of de focus verplaatsen naar externe factoren).
+
+Formuleer de bevindingen in deze sectie feitelijk en zonder verzachting. Koppel waar relevant de taalpatronen aan de structurele bevindingen uit andere hoofdstukken (bijvoorbeeld hoe taalgebruik bijdraagt aan narrative shielding of institutionele zelfbescherming).
+
+### 8. Power Topology en Institutionele Capture
 *Verplichte sectie*. Bij het invullen van deze sectie moet de agent systematisch en expliciet de volgende elementen in kaart brengen:
 - Welke informele personen, functies of gremia feitelijk de besluitvorming stuurden (ook als dit niet expliciet in het transcript staat).
 - Welke directe of indirecte machtsrelaties zichtbaar zijn tussen betrokken personen en organisaties.
@@ -193,15 +206,15 @@ Breng hier systematisch in kaart welke informele structuren, netwerken en besche
 - **Institutionele capture**: In hoeverre de organisatie of haar sleutelfiguren zijn ingekapseld door specifieke (deel)belangen of leidende narratieven.
 - **Beschermingsmechanismen**: Hoe de structuur zichzelf beschermt tegen externe druk, openbaarheid en verantwoording.
 
-### 8. Tijdslijn Reconstructie
+### 9. Tijdslijn Reconstructie
 Kritieke gebeurtenissen en chronologische inconsistenties.
 
-### 9. Kwantitatieve Samenvatting & Risico-beoordeling
+### 10. Kwantitatieve Samenvatting & Risico-beoordeling
 - Verdeling discrepanties
 - Impact op geloofwaardigheid
 - Meineed-risico signalering (geen juridisch oordeel)
 
-### 10. Bijlagen
+### 11. Bijlagen
 Citaten, bronnen (inclusief vermeldingen over filter-bewustzijn / YMYL-status en archiefsnapshots), visualisaties.
 
 ## Werkwijze
