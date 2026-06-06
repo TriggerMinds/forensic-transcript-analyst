@@ -24,25 +24,27 @@ Herbruikbare, hoogwaardige forensische analyse van lange transcripten (2-3+ uur)
 
 ## Brondiversificatie en Filter-Bewustzijn (YMYL)
 
-Bij elke feitelijke verificatie en brononderzoek GELDT DE VOLGENDE PRIORITEITSVOLGORDE:
+Bij elke feitelijke verificatie en brononderzoek GELDT DE VOLGENDE PRIORITEITSVOLGORDE (met sterke voorkeur voor volledig open source of onafhankelijke systemen):
 
-**Voorkeur engines (in deze volgorde waar mogelijk):**
-1. Mojeek (meest onafhankelijke index)
-2. Brave Search (eigen index + expliciet anti-bias beleid)
-3. Qwant (Europese focus)
-4. DuckDuckGo (alleen als aanvulling, bewust van Bing-erfenis)
-5. Andere onafhankelijke of gedecentraliseerde tools
+**Prioriteitenlijst Zoekmachines:**
+1. **Mojeek** – Volledig onafhankelijke index, privacy-first.
+2. **Brave Search** – Eigen index, expliciet anti-bias beleid.
+3. **Qwant** – Europese zoekmachine met eigen index-componenten.
+4. **SearxNG** (publieke instances of zelf gehost) – Open source meta-zoekmachine, configureerbaar.
+5. **DuckDuckGo** – Alleen als aanvulling (bewust van Bing-erfenis).
+6. Andere onafhankelijke / open source engines.
 
-**Sterk vermijden of alleen als laatste redmiddel:**
-- Google (inclusief Startpage)
-- Bing
-- AI-synthese tools zoals Perplexity, Kagi, ChatGPT-search e.d. (vanwege eigen zero-click filtering)
+**Sterk vermijden:**
+- Google en alle Google-proxies (incl. Startpage)
+- Bing en afgeleiden
+- AI-synthese tools (Perplexity, Kagi, etc.)
 
-Werkwijze:
-- Gebruik altijd minimaal 2-3 verschillende engines.
-- Prioriteer **primaire bronnen** (originele kamerstukken, PDF’s, audio/video, officiële publicaties, archieven) boven secundaire media of interpretaties.
-- Documenteer expliciet wanneer informatie moeilijk vindbaar is op onafhankelijke engines (mogelijke indicatie van demotie).
-- Vermeld in de analyse waar relevant: “Mogelijke YMYL-filtering waargenomen” of “Bevestigd via onafhankelijke index (Mojeek/Brave)”.
+**Werkwijze:**
+- Gebruik altijd minimaal **2 tot 3 verschillende engines** uit de prioriteitenlijst.
+- Documenteer expliciet in elke analyse welke engines zijn gebruikt.
+- Prioriteer **primaire bronnen** (kamerstukken, PDF’s, officiële publicaties, audio/video).
+- Gebruik de Wayback Machine voor historische verificatie.
+- Vermeld waar relevant: “Mogelijke YMYL-filtering waargenomen” of “Bevestigd via onafhankelijke/open source index”.
 
 ## Wayback Machine Integratie (Archiefverificatie)
 
