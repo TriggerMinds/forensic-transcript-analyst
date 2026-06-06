@@ -18,13 +18,62 @@ search:
     - json
 
 engines:
+  # === Hoogste prioriteit (onafhankelijk + goede kwaliteit) ===
+  - name: mojeek
+    engine: mojeek
+    shortcut: mj
+    disabled: false
+    weight: 1.3
+    display_name: "Mojeek"
+    timeout: 6.0
+    categories: [general, news]
+
+  - name: brave
+    engine: brave
+    shortcut: br
+    disabled: false
+    weight: 1.4
+    display_name: "Brave"
+    timeout: 5.0
+    categories: [general, news, images]
+
+  # === Goede aanvullingen ===
+  - name: metager
+    engine: metager
+    shortcut: mg
+    disabled: false
+    weight: 1.0
+    display_name: "MetaGer"
+    timeout: 5.0
+    categories: [general, news]
+
+  - name: mullvad_leta
+    engine: mullvad_leta
+    shortcut: ml
+    disabled: false
+    weight: 0.9
+    display_name: "Mullvad Leta"
+    timeout: 5.0
+    categories: [general]
+
+  - name: qwant
+    engine: qwant
+    shortcut: qw
+    disabled: false
+    weight: 0.8
+    display_name: "Qwant"
+    timeout: 5.0
+    categories: [general, news]
+
+  # === Expliciet uitgeschakeld om Google/Bing proxies te vermijden ===
   - name: google
     disabled: true
+
   - name: bing
     disabled: true
-  - name: brave
-    disabled: false
-  - name: mojeek
-    disabled: false
-  - name: qwant
-    disabled: false
+
+  - name: duckduckgo
+    engine: duckduckgo
+    shortcut: ddg
+    disabled: true          # Standaard uitgeschakeld
+    weight: 0.5
