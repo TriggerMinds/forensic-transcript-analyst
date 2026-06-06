@@ -228,7 +228,21 @@ Documenteer expliciet:
 
 Koppel de bevindingen waar relevant aan de Linguïstische & Retorische Analyse en de Tegenstrijdigheden Matrix.
 
-### 11. Power Topology en Institutionele Capture
+### 11. Multi-witness & Multi-transcript Pattern Detection
+
+Analyseer systematisch patronen, overeenkomsten en afwijkingen over meerdere getuigen en meerdere transcripten binnen dezelfde enquête (of gerelateerde enquêtes). Maak hierbij optimaal gebruik van het vermogen van AI om grote hoeveelheden informatie consistent te verwerken en verbanden te leggen die voor een mens moeilijk consistent uit te voeren zijn.
+
+Documenteer expliciet de volgende elementen:
+
+- **Gemeenschappelijke patronen**: Welke framing, retorische strategieën, verantwoordelijkheidstoewijzing of verdedigingsmechanismen komen bij meerdere getuigen terug?
+- **Structurele afwijkingen**: Waar wijken getuigen significant af van het dominante verhaal of van elkaar, en wat zegt dit over mogelijke coördinatie of individuele posities?
+- **Institutionele patronen**: Zijn er terugkerende patronen in hoe ambtelijke of politieke actoren zich positioneren, verantwoordelijkheid ontwijken of institutionele belangen beschermen?
+- **Cross-getuige tegenstrijdigheden**: Welke tegenstrijdigheden tussen verschillende getuigen zijn het meest relevant en wat zeggen ze over de betrouwbaarheid van bepaalde narratieven?
+- **Patronen in stiltes en weglatingen**: Zijn er onderwerpen of feiten die door meerdere getuigen systematisch worden vermeden of vaag gehouden?
+
+Formuleer de bevindingen feitelijk en structureel. Koppel waar relevant de gedetecteerde patronen aan de secties Linguïstische & Retorische Analyse, Stilte-analyse, Tegenstrijdigheden en Power Topology.
+
+### 12. Power Topology en Institutionele Capture
 *Verplichte sectie*. Bij het invullen van deze sectie moet de agent systematisch en expliciet de volgende elementen in kaart brengen:
 - Welke informele personen, functies of gremia feitelijk de besluitvorming stuurden (ook als dit niet expliciet in het transcript staat).
 - Welke directe of indirecte machtsrelaties zichtbaar zijn tussen betrokken personen en organisaties.
@@ -242,15 +256,15 @@ Breng hier systematisch in kaart welke informele structuren, netwerken en besche
 - **Institutionele capture**: In hoeverre de organisatie of haar sleutelfiguren zijn ingekapseld door specifieke (deel)belangen of leidende narratieven.
 - **Beschermingsmechanismen**: Hoe de structuur zichzelf beschermt tegen externe druk, openbaarheid en verantwoording.
 
-### 12. Tijdslijn Reconstructie
+### 13. Tijdslijn Reconstructie
 Kritieke gebeurtenissen en chronologische inconsistenties.
 
-### 13. Kwantitatieve Samenvatting & Risico-beoordeling
+### 14. Kwantitatieve Samenvatting & Risico-beoordeling
 - Verdeling discrepanties
 - Impact op geloofwaardigheid
 - Meineed-risico signalering (geen juridisch oordeel)
 
-### 14. Bijlagen
+### 15. Bijlagen
 Citaten, bronnen (inclusief vermeldingen over filter-bewustzijn / YMYL-status en archiefsnapshots), visualisaties.
 
 ## Werkwijze
