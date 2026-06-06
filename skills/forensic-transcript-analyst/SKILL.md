@@ -62,14 +62,19 @@ Herbruikbare, hoogwaardige forensische analyse van lange transcripten (2-3+ uur)
 Bij elke feitelijke verificatie en brononderzoek wordt strikt het volgende protocol gevolgd om institutionele bias en YMYL-filtering zoveel mogelijk te vermijden.
 
 ### 1. Prioriteitenlijst Zoekmachines (in volgorde van voorkeur)
-1. **Lokale SearxNG** (zelf gehost) – primaire zoekmachine
-2. **Mojeek** – volledig onafhankelijke index
-3. **Brave Search** – eigen index + anti-bias beleid
-4. **Qwant** – Europese index
-5. **Andere onafhankelijke engines** via SearxNG
-6. **DuckDuckGo** – alleen als aanvulling
 
-**Sterk vermijden**: Google, Bing en alle proxies daarvan, evenals AI-synthese tools (Perplexity, Kagi, etc.).
+1. **Lokale SearxNG** (zelf gehost) – primaire zoekmachine
+2. **Mojeek** – volledig onafhankelijke index (sterk aanbevolen)
+3. **Brave Search** – eigen index + anti-bias beleid (sterk aanbevolen)
+4. **MetaGer** – privacy-vriendelijke meta-search met Europese focus
+5. **Mullvad Leta** – zeer privacy-vriendelijke meta-search (nieuwere speler)
+6. **Qwant** – Europese index met eigen componenten
+7. **DuckDuckGo** – alleen als fallback (grotendeels afhankelijk van Bing)
+
+**Sterk vermijden**: Google, Bing en alle proxies daarvan (waaronder Startpage), evenals AI-synthese tools zoals Perplexity of Kagi.
+
+**Toelichting**:  
+De prioriteitenlijst is samengesteld op basis van mate van onafhankelijkheid, privacy-bescherming en geschiktheid voor gevoelige YMYL-onderzoeken. Engines met een eigen index (Mojeek, Brave) hebben de voorkeur boven meta-search engines. Self-hosted SearxNG blijft de primaire toegangspoort om tracking en personalisatie zoveel mogelijk te beperken.
 
 ### 2. Lokale Zelf-Gehoste Tools (Voorkeursconfiguratie)
 
