@@ -194,15 +194,13 @@ Formuleer de bevindingen in deze sectie feitelijk en zonder verzachting. Koppel 
 
 ### 8. Stilte-analyse / What is not said (Unknown Unknowns)
 
-Analyseer systematisch wat de getuige **niet** zegt, terwijl dit op basis van zijn positie, rol en de context logischerwijs wel verwacht zou mogen worden. Documenteer de volgende elementen expliciet:
+Analyseer systematisch wat de getuige **niet** zegt, terwijl dit op basis van zijn positie, rol en de context logischerwijs wel verwacht zou mogen worden. Documenteer de volgende elementen expliciet en structureer de bevindingen verplicht langs deze drie hoofdvragen:
 
-- **Bewuste of opvallende weglatingen**: Welke belangrijke feiten, gebeurtenissen, verantwoordelijkheden of wetenswaardigheden worden niet genoemd, terwijl de getuige hierover redelijkerwijs zou moeten beschikken of hiernaar gevraagd zou kunnen worden?
-- **Vermeden onderwerpen**: Welke thema's of vragen worden actief ontweken, vaag gehouden of snel afgesloten?
-- **Stilte rond eigen rol en organisatie**: In hoeverre blijft de getuige stil over de eigen rol, de eigen organisatie (NCTV of vergelijkbaar) of eigen handelen, vooral bij onderwerpen die potentieel belastend kunnen zijn?
-- **Stilte rond juridische, politieke of democratische risico's**: Wordt er gezwegen over mogelijke overschrijdingen van mandaat, democratische tekortkomingen, of gevolgen voor de rechtsstaat?
-- **Stilte rond eerdere verklaringen of schriftelijke bronnen**: Wordt er niet gerefereerd aan eerdere uitspraken, e-mails of documenten die relevant zijn voor de huidige verklaring?
+1. **Welke onderwerpen worden opvallend vermeden?** (Actief ontweken thema's, vragen die vaag worden beantwoord of snel worden afgesloten).
+2. **Welke feiten of contexten die de getuige redelijkerwijs zou moeten kennen, worden niet genoemd?** (Ontbrekende referenties aan eerdere verklaringen, e-mails, nota's of kritieke gebeurtenissen).
+3. **Welke stiltes hebben structurele (institutionele of persoonlijke) betekenis?** (Stiltes rondom de eigen rol, de eigen organisatie, machtsverschuivingen, mandaat-overschrijdingen, democratische risico's of de gevolgen voor de rechtsstaat).
 
-Formuleer de bevindingen feitelijk en hard. Geef waar mogelijk aan waarom een bepaalde stilte opvallend of relevant is in de context van de verklaring onder ede. Koppel de stiltes waar relevant aan bevindingen uit de Tegenstrijdigheden Matrix, de Linguïstische & Retorische Analyse en de Power Topology.
+Formuleer de bevindingen feitelijk en hard. Geef per stilte expliciet aan waarom deze opvallend of relevant is in de context van de verklaring onder ede. Koppel de stiltes waar relevant concreet aan de Tegenstrijdigheden Matrix, de Linguïstische & Retorische Analyse en de Power Topology.
 
 ### 9. Cross-source & Cross-document Consistency
 
@@ -248,30 +246,23 @@ Genereer en toets systematisch alternatieve verklaringen en hypotheses op basis 
 
 Documenteer expliciet de volgende elementen:
 
-- **Belangrijkste hypotheses**: Formuleer de meest waarschijnlijke en relevante alternatieve verklaringen voor de geconstateerde discrepanties, framing of gedragingen van de getuige.
-- **Toetsing van hypotheses**: Beoordeel elke hypothese op basis van:
-  - Consistentie met de feiten in het transcript
-  - Consistentie met externe bronnen (via tools)
-  - Logische coherentie
-  - Alternatieve verklaringen die de data beter of slechter verklaren
+- **Belangrijkste hypotheses**: Formuleer feitelijke en toetsbare hypotheses als alternatieve verklaringen voor de geconstateerde discrepanties, weglatingen of gedragingen.
+- **Toetsing en Rangschikking**: Evalueer en rangschik de hypotheses op basis van bewijskracht en logische coherentie. Geef hierbij expliciet aan welke hypotheses zwak zijn en waarom ze op basis van de feiten of logica afvallen.
 - **Meest waarschijnlijke verklaring**: Geef een onderbouwde inschatting welke verklaring het meest aannemelijk is, inclusief de mate van onzekerheid.
-- **Gevolgen per hypothese**: Beschrijf kort wat de implicaties zouden zijn als een bepaalde hypothese waar zou zijn (bijv. op het gebied van mandaat-overschrijding, politieke verantwoordelijkheid of democratische uitholling).
+- **Gevolgen per hypothese**: Beschrijf kort wat de implicaties zouden zijn als een bepaalde hypothese waar zou zijn (gekoppeld aan mandaat-overschrijding, politieke verantwoordelijkheid of democratische uitholling).
 
 Formuleer hypotheses feitelijk en gestructureerd. Vermijd pure speculatie. Koppel de bevindingen waar relevant aan de Tegenstrijdigheden Matrix, de Linguïstische & Retorische Analyse en de Power Topology.
 
 ### 13. Impact & Consequence Analysis
 
-Analyseer de concrete gevolgen en implicaties van de geconstateerde discrepanties, framing, stiltes en structurele bevindingen. Maak hierbij een duidelijke scheiding tussen verschillende niveaus van impact.
+Analyseer de concrete gevolgen en implicaties van de geconstateerde discrepanties, framing, stiltes en structurele bevindingen. De consequenties moeten altijd expliciet worden gekoppeld aan specifieke, eerder in het rapport aangetoonde bevindingen (geen losstaande reflectie).
 
-Documenteer expliciet de volgende elementen:
+Documenteer de consequenties door een strikte en expliciete scheiding te maken tussen:
+- **Persoonlijke consequenties voor de getuige**: Risico's op het gebied van reputatie, professionele positie of juridische aansprakelijkheid (meineed-risico's).
+- **Institutionele consequenties**: Gevolgen voor de betrokken organisaties, structurele patronen binnen het ambtelijk apparaat en risico's op herhaling.
+- **Democratische en maatschappelijke consequenties**: Gevolgen voor de parlementaire controle, democratische legitimiteit van besluiten, grondrechten van burgers en het publieke vertrouwen.
 
-- **Juridische consequenties**: Welke bevindingen kunnen relevant zijn in het kader van meineed, ambtsmisdrijven, of andere juridische aansprakelijkheid? Wat is de ernst en bewijskracht?
-- **Politieke en democratische consequenties**: Welke impact hebben de bevindingen op het vertrouwen in de overheid, de parlementaire controle, of de democratische legitimiteit van genomen besluiten?
-- **Institutionele consequenties**: Wat zeggen de bevindingen over structurele problemen binnen de betrokken organisatie(s) of het ambtelijk apparaat? Welke patronen kunnen zich herhalen?
-- **Maatschappelijke consequenties**: Welke gevolgen hebben de bevindingen voor het publieke vertrouwen, de perceptie van rechtvaardigheid, of de impact op burgers (bijv. bij grondrechtenkwesties)?
-- **Persoonlijke consequenties voor de getuige**: Welke risico’s of gevolgen kunnen er zijn voor de getuige zelf (politiek, professioneel, juridisch)?
-
-Formuleer de consequenties feitelijk en onderbouwd. Vermijd speculatie. Koppel de analyse waar relevant aan de Tegenstrijdigheden Matrix, de Hypothesis Generation en de Power Topology.
+Formuleer de consequenties feitelijk en onderbouwd. Vermijd speculatie. Koppel de analyse waar relevant direct aan de Tegenstrijdigheden Matrix, de Hypothesis Generation en de Power Topology.
 
 ### 14. Power Topology en Institutionele Capture
 *Verplichte sectie*. Bij het invullen van deze sectie moet de agent systematisch en expliciet de volgende elementen in kaart brengen:
@@ -299,6 +290,8 @@ Kritieke gebeurtenissen en chronologische inconsistenties.
 Citaten, bronnen (inclusief vermeldingen over filter-bewustzijn / YMYL-status en archiefsnapshots), visualisaties.
 
 ## Werkwijze
+**Algemene richtlijn voor bondigheid**: Analyses moeten bondig, to-the-point en analytisch scherp zijn. Vermijd onnodige herhaling tussen secties (bijvoorbeeld tussen de Executive Summary, Statement Analyse, Tegenstrijdigheden en de thematische hoofdstukken). Elke bevinding mag in principe maar op één plek in het rapport uitgebreid worden behandeld, waarbij in andere hoofdstukken met korte cross-referenties kan worden volstaan.
+
 1. Lees transcript + context.
 2. Globale scan op hoofdthema’s en risico-gebieden.
 3. Vul template volledig in met prioritering.
@@ -307,6 +300,7 @@ Citaten, bronnen (inclusief vermeldingen over filter-bewustzijn / YMYL-status en
 6. Formuleer bevindingen hard, feitelijk en zonder enige vorm van ambtelijke voorzichtigheid. Gebruik termen als 'machtsmisbruik', 'mandaat-overschrijding', 'democratische uitholling' en 'narrative shielding' waar dit empirisch gerechtvaardigd is.
 7. Bij lange transcripten (2-3+ uur): bied fasering aan (bijv. per uur of per thema).
 8. Bouw kennis op voor multi-transcript analyses (alleen van toepassing indien de huidige opdracht expliciet als een gezamenlijke multi-transcript analyse is gedefinieerd; anders geldt onverkort het Neutral Start Protocol).
+9. Elke analyse moet scherp, feitelijk en bondig zijn. Herhaling tussen hoofdstukken moet worden vermeden. De focus ligt op structurele en institutionele mechanismen, niet op individuele personen tenzij dit structureel relevant is.
 
 ## Sterke punten actief benutten
 - Patroonherkenning over grote volumes
