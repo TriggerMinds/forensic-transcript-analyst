@@ -76,6 +76,22 @@ Bij elke feitelijke verificatie en brononderzoek wordt strikt het volgende proto
 **Toelichting**:  
 De prioriteitenlijst is samengesteld op basis van mate van onafhankelijkheid, privacy-bescherming en geschiktheid voor gevoelige YMYL-onderzoeken. Engines met een eigen index (Mojeek, Brave) hebben de voorkeur boven meta-search engines. Self-hosted SearxNG blijft de primaire toegangspoort om tracking en personalisatie zoveel mogelijk te beperken.
 
+**Gebruiksinstructie Mojeek en Brave Search**
+
+Bij het uitvoeren van zoekopdrachten via lokale SearxNG geldt de volgende richtlijn:
+
+- **Mojeek** heeft de voorkeur wanneer maximale onafhankelijkheid en minimale institutionele bias gewenst is. Gebruik Mojeek vooral bij:
+  - Verificatie van gevoelige of politiek beladen claims
+  - Onderwerpen waarbij je expliciet Big Tech filtering wilt vermijden
+  - Situaties waarin privacy en onafhankelijkheid zwaarder wegen dan maximale relevantie
+
+- **Brave Search** heeft de voorkeur wanneer hoge relevantie, diepgang en actualiteit belangrijk zijn. Gebruik Brave Search vooral bij:
+  - Zoekopdrachten waarbij scherpe en relevante resultaten gewenst zijn
+  - Onderwerpen die recente ontwikkelingen of niche-informatie betreffen
+  - Situaties waarin de kwaliteit en diepgang van de resultaten prioriteit hebben
+
+- **Combinatie via SearxNG** blijft de standaardaanpak. Raadpleeg bij voorkeur zowel Mojeek als Brave Search (en eventueel MetaGer) via de lokale SearxNG instance, tenzij er een specifieke reden is om één engine te prioriteren.
+
 ### 2. Lokale Zelf-Gehoste Tools (Voorkeursconfiguratie)
 
 **Aanbevolen setup (Docker Compose):**
