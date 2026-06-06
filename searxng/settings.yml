@@ -16,3 +16,15 @@ search:
   formats:
     - html
     - json
+
+engines:
+  - name: google
+    disabled: true
+  - name: bing
+    disabled: true
+  - name: brave
+    disabled: false
+  - name: mojeek
+    disabled: false
+  - name: qwant
+    disabled: false
