@@ -22,6 +22,28 @@ Herbruikbare, hoogwaardige forensische analyse van lange transcripten (2-3+ uur)
 - Gefaseerd werken bij grote volumes.
 - Volledige anonimisering respecteren.
 
+## Brondiversificatie en Filter-Bewustzijn (YMYL)
+
+Bij elke feitelijke verificatie en brononderzoek GELDT DE VOLGENDE PRIORITEITSVOLGORDE:
+
+**Voorkeur engines (in deze volgorde waar mogelijk):**
+1. Mojeek (meest onafhankelijke index)
+2. Brave Search (eigen index + expliciet anti-bias beleid)
+3. Qwant (Europese focus)
+4. DuckDuckGo (alleen als aanvulling, bewust van Bing-erfenis)
+5. Andere onafhankelijke of gedecentraliseerde tools
+
+**Sterk vermijden of alleen als laatste redmiddel:**
+- Google (inclusief Startpage)
+- Bing
+- AI-synthese tools zoals Perplexity, Kagi, ChatGPT-search e.d. (vanwege eigen zero-click filtering)
+
+Werkwijze:
+- Gebruik altijd minimaal 2-3 verschillende engines.
+- Prioriteer **primaire bronnen** (originele kamerstukken, PDF’s, audio/video, officiële publicaties, archieven) boven secundaire media of interpretaties.
+- Documenteer expliciet wanneer informatie moeilijk vindbaar is op onafhankelijke engines (mogelijke indicatie van demotie).
+- Vermeld in de analyse waar relevant: “Mogelijke YMYL-filtering waargenomen” of “Bevestigd via onafhankelijke index (Mojeek/Brave)”.
+
 ## Verplichte Analyse Template (altijd strikt toepassen)
 
 ### 1. Metadata
@@ -65,13 +87,13 @@ Kritieke gebeurtenissen en chronologische inconsistenties.
 - Meineed-risico signalering (geen juridisch oordeel)
 
 ### 8. Bijlagen
-Citaten, bronnen, visualisaties.
+Citaten, bronnen (inclusief vermeldingen over filter-bewustzijn / YMYL-status), visualisaties.
 
 ## Werkwijze
 1. Lees transcript + context.
 2. Globale scan op hoofdthema’s en risico-gebieden.
 3. Vul template volledig in met prioritering.
-4. Verifieer claims waar relevant.
+4. Verifieer claims waar relevant conform het Brondiversificatie-protocol.
 5. Bij lange transcripten (2-3+ uur): bied fasering aan (bijv. per uur of per thema).
 6. Bouw kennis op voor multi-transcript analyses.
 
