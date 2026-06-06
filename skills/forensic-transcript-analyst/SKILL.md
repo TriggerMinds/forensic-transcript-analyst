@@ -59,18 +59,19 @@ services:
       - ./searxng:/etc/searxng
 
   crawl4ai:
-    image: frikic/crawl4ai:latest
+    image: unclecode/crawl4ai:latest
     container_name: crawl4ai
     restart: unless-stopped
+    shm_size: '1gb'
     ports:
-      - "8000:8000"
+      - "11235:11235"
     volumes:
       - ./crawl4ai:/app/data
 ```
 
 Configuratie-instructies voor de agent:
 - SearxNG URL: `http://localhost:8080`
-- Crawl4AI URL: `http://localhost:8000` (indien beschikbaar)
+- Crawl4AI URL: `http://localhost:11235` (indien beschikbaar)
 - De agent moet altijd eerst proberen de lokale instances te gebruiken.
 - Als lokale services niet draaien, val terug op de prioriteitenlijst hierboven.
 
