@@ -192,7 +192,19 @@ Analyseer systematisch het taalgebruik en de retorische strategieën van de getu
 
 Formuleer de bevindingen in deze sectie feitelijk en zonder verzachting. Koppel waar relevant de taalpatronen aan de structurele bevindingen uit andere hoofdstukken (bijvoorbeeld hoe taalgebruik bijdraagt aan narrative shielding of institutionele zelfbescherming).
 
-### 8. Power Topology en Institutionele Capture
+### 8. Stilte-analyse / What is not said (Unknown Unknowns)
+
+Analyseer systematisch wat de getuige **niet** zegt, terwijl dit op basis van zijn positie, rol en de context logischerwijs wel verwacht zou mogen worden. Documenteer de volgende elementen expliciet:
+
+- **Bewuste of opvallende weglatingen**: Welke belangrijke feiten, gebeurtenissen, verantwoordelijkheden of wetenswaardigheden worden niet genoemd, terwijl de getuige hierover redelijkerwijs zou moeten beschikken of hiernaar gevraagd zou kunnen worden?
+- **Vermeden onderwerpen**: Welke thema's of vragen worden actief ontweken, vaag gehouden of snel afgesloten?
+- **Stilte rond eigen rol en organisatie**: In hoeverre blijft de getuige stil over de eigen rol, de eigen organisatie (NCTV of vergelijkbaar) of eigen handelen, vooral bij onderwerpen die potentieel belastend kunnen zijn?
+- **Stilte rond juridische, politieke of democratische risico's**: Wordt er gezwegen over mogelijke overschrijdingen van mandaat, democratische tekortkomingen, of gevolgen voor de rechtsstaat?
+- **Stilte rond eerdere verklaringen of schriftelijke bronnen**: Wordt er niet gerefereerd aan eerdere uitspraken, e-mails of documenten die relevant zijn voor de huidige verklaring?
+
+Formuleer de bevindingen feitelijk en hard. Geef waar mogelijk aan waarom een bepaalde stilte opvallend of relevant is in de context van de verklaring onder ede. Koppel de stiltes waar relevant aan bevindingen uit de Tegenstrijdigheden Matrix, de Linguïstische & Retorische Analyse en de Power Topology.
+
+### 9. Power Topology en Institutionele Capture
 *Verplichte sectie*. Bij het invullen van deze sectie moet de agent systematisch en expliciet de volgende elementen in kaart brengen:
 - Welke informele personen, functies of gremia feitelijk de besluitvorming stuurden (ook als dit niet expliciet in het transcript staat).
 - Welke directe of indirecte machtsrelaties zichtbaar zijn tussen betrokken personen en organisaties.
@@ -206,15 +218,15 @@ Breng hier systematisch in kaart welke informele structuren, netwerken en besche
 - **Institutionele capture**: In hoeverre de organisatie of haar sleutelfiguren zijn ingekapseld door specifieke (deel)belangen of leidende narratieven.
 - **Beschermingsmechanismen**: Hoe de structuur zichzelf beschermt tegen externe druk, openbaarheid en verantwoording.
 
-### 9. Tijdslijn Reconstructie
+### 10. Tijdslijn Reconstructie
 Kritieke gebeurtenissen en chronologische inconsistenties.
 
-### 10. Kwantitatieve Samenvatting & Risico-beoordeling
+### 11. Kwantitatieve Samenvatting & Risico-beoordeling
 - Verdeling discrepanties
 - Impact op geloofwaardigheid
 - Meineed-risico signalering (geen juridisch oordeel)
 
-### 11. Bijlagen
+### 12. Bijlagen
 Citaten, bronnen (inclusief vermeldingen over filter-bewustzijn / YMYL-status en archiefsnapshots), visualisaties.
 
 ## Werkwijze
