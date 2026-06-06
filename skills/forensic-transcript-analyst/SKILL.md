@@ -102,14 +102,29 @@ De agent moet in elke analyse aangeven welke zoek- en scraping-tools zijn gebrui
 
 ## Wayback Machine Integratie (Archiefverificatie)
 
-Bij relevante verificaties (vooral bij claims over gebeurtenissen uit 2018-2026):
-- Zoek altijd naar historische snapshots via archive.org/web.
-- Prioriteer snapshots uit de relevante tijdsperiode (bijv. 2020 voor coronacrisis-verklaringen).
-- Documenteer:
-  - Beschikbare snapshots (data en URLs).
-  - Verschillen tussen historische en huidige versies (indien waarneembaar).
-  - Wanneer een bron niet of slechts gedeeltelijk gearchiveerd is.
-- Gebruik Wayback Machine bij voorkeur voor nieuwsartikelen, overheidscommuniqués, rapporten en websites die mogelijk gewijzigd zijn.
+De agent moet bij elke analyse **actief en contextueel** beoordelen of en in welke mate de Wayback Machine (archive.org/web) moet worden ingezet. Dit is geen optionele extra, maar een verplicht onderdeel van de verificatieproces.
+
+**Verplichte afweging**
+Bij het begin van de verificatiefase moet de agent expliciet overwegen of de Wayback Machine relevant is. Dit geldt in ieder geval bij:
+- Claims over eerdere standpunten, adviezen of communicatie van overheidsinstanties, adviesorganen (zoals OMT, RIVM, WHO) of ministers.
+- Verwijzingen naar documenten, persberichten, nota’s of rapporten die in de loop der jaren mogelijk zijn aangepast of verwijderd.
+- Onderwerpen waarbij narrative shielding of retroactieve aanpassing van het officiële verhaal aannemelijk is.
+- Situaties waarin de getuige verwijst naar "wat toen bekend was" of "wat toen besloten is".
+
+**Uitvoering**
+Wanneer de Wayback Machine relevant wordt geacht, moet de agent:
+- Gericht zoeken naar historische snapshots uit de relevante periode (bijv. 2020 voor coronagerelateerde claims).
+- Controleren op verschillen tussen historische en huidige versies van documenten of webpagina’s.
+- Specifiek letten op verwijderde content, gewijzigde formuleringen of verdwenen bronnen die kunnen duiden op narrative shielding.
+- Altijd de gebruikte snapshots documenteren met datum en URL.
+
+**Documentatieplicht**
+In elke analyse moet expliciet worden vermeld:
+- Of de Wayback Machine is gebruikt.
+- Voor welke specifieke claims of bronnen dit is gedaan.
+- Wat de relevante bevindingen waren (inclusief "geen relevante wijzigingen gevonden" als dat het geval is).
+
+De agent moet hierbij slim en contextueel handelen: niet alles standaard checken, maar gericht en met reden gebruiken waar het echt meerwaarde heeft voor het blootleggen van framing, inconsistenties of institutionele zelfbescherming.
 
 ## Verplichte Analyse Template (altijd strikt toepassen)
 
