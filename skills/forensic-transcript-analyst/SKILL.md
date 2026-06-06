@@ -245,15 +245,32 @@ Koppel de bevindingen waar relevant aan de Linguïstische & Retorische Analyse e
 
 Analyseer systematisch patronen, overeenkomsten en afwijkingen over meerdere getuigen en meerdere transcripten binnen dezelfde enquête (of gerelateerde enquêtes). Maak hierbij optimaal gebruik van het vermogen van AI om grote hoeveelheden informatie consistent te verwerken en verbanden te leggen die voor een mens moeilijk consistent uit te voeren zijn.
 
-Documenteer expliciet de volgende elementen:
+De analyse moet expliciet gebruikmaken van de volgende methoden:
 
-- **Gemeenschappelijke patronen**: Welke framing, retorische strategieën, verantwoordelijkheidstoewijzing of verdedigingsmechanismen komen bij meerdere getuigen terug?
-- **Structurele afwijkingen**: Waar wijken getuigen significant af van het dominante verhaal of van elkaar, en wat zegt dit over mogelijke coördinatie of individuele posities?
-- **Institutionele patronen**: Zijn er terugkerende patronen in hoe ambtelijke of politieke actoren zich positioneren, verantwoordelijkheid ontwijken of institutionele belangen beschermen?
-- **Cross-getuige tegenstrijdigheden**: Welke tegenstrijdigheden tussen verschillende getuigen zijn het meest relevant en wat zeggen ze over de betrouwbaarheid van bepaalde narratieven?
-- **Patronen in stiltes en weglatingen**: Zijn er onderwerpen of feiten die door meerdere getuigen systematisch worden vermeden of vaag gehouden?
+**1. Verantwoordelijkheidsdiffusie-patroon**  
+Breng systematisch in kaart hoe getuigen verantwoordelijkheid toewijzen of juist ontwijken. Documenteer terugkerende patronen zoals:
+- Het afschuiven van verantwoordelijkheid op "de politiek", "het systeem", "andere adviseurs" of "onzekerheid".
+- Het claimen van een puur adviserende of uitvoerende rol.
+- Het gebruik van passief taalgebruik om actoren te verhullen ("er is besloten", "er werd geadviseerd").
 
-Formuleer de bevindingen feitelijk en structureel. Koppel waar relevant de gedetecteerde patronen aan de secties Linguïstische & Retorische Analyse, Stilte-analyse, Tegenstrijdigheden en Power Topology.
+**2. Framing & Narratieve Clustering**  
+Groepeer en vergelijk hoe verschillende getuigen dezelfde gebeurtenissen, maatregelen, actoren of besluiten framen. Identificeer:
+- Gedeelde narratieven (bijv. "we wisten het toen niet", "het was een politieke keuze").
+- Tegenstrijdige framing tussen getuigen.
+- Terugkerende metaforen of eufemismen die eenzelfde functie vervullen (bijv. "oliemannetje", "brievenbus").
+
+**3. Stilte- & Weglatingspatroon**  
+Vergelijk systematisch welke onderwerpen, feiten of contexten door meerdere getuigen consistent worden vermeden, vaag gehouden of snel afgesloten. Documenteer:
+- Collectieve stiltes rond gevoelige onderwerpen (bijv. grondrechten, mandaat-overschrijding, eigen rol).
+- Onderwerpen die logischerwijs verwacht zouden mogen worden, maar door meerdere getuigen niet worden genoemd.
+
+**4. Machtsrelatie-mapping**  
+Breng in kaart welke informele relaties, hiërarchieën en invloedslijnen tussen getuigen en organisaties zichtbaar worden. Documenteer:
+- Wie wie noemt als invloedrijk of bepalend.
+- Wie buiten beeld blijft ondanks een relevante positie.
+- Patronen van informele netwerken of kartels die uit de verklaringen naar voren komen.
+
+Formuleer de bevindingen feitelijk en structureel. Koppel de gedetecteerde patronen expliciet aan de secties Linguïstische & Retorische Analyse, Stilte-analyse, Tegenstrijdigheden en Power Topology. Geef aan in hoeverre de patronen wijzen op institutionele zelfbescherming, narrative engineering of omzeiling van democratische controle.
 
 ### 12. Hypothesis Generation & Alternative Explanations
 
