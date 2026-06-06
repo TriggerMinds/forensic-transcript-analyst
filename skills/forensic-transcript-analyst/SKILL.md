@@ -186,7 +186,7 @@ Analyseer systematisch het taalgebruik en de retorische strategieën van de getu
 - **Passief vs actief taalgebruik**: In hoeverre gebruikt de getuige passieve constructies ("er is besloten", "er werd gevraagd") om verantwoordelijkheid te verhullen of te verspreiden?
 - **Eufemismen en verkleinwoorden**: Identificeer het gebruik van verkleinende of neutraliserende termen (bijv. "oliemannetje", "brievenbus", "departementje", "een beetje", "een soort") en wat deze onthullen over framing en machtsperceptie.
 - **Ontwijkende en defensieve formuleringen**: Noteer het gebruik van zinnen als "naar mijn beste weten", "ik weet het niet meer precies", "ik bedenk wat ik bedoeld heb", "dat zal ook mee gespeeld hebben", etc. en wat dit zegt over de mate van zekerheid of strategische ontwijking.
-- **Framing en narratieve technieken**: Analyseer hoe de getuige zichzelf, zijn organisatie en others framet (bijv. als "honest broker", facilitator, of juist als slachtoffer van omstandigheden).
+- **Framing en narratieve technieken**: Analyseer hoe de getuige zichzelf, zijn organisatie en anderen framet (bijv. als "honest broker", facilitator, of juist als slachtoffer van omstandigheden).
 - **Consistentie in woordkeuze**: Zijn er opvallende verschuivingen of herhalingen in terminologie die wijzen op bewuste framing of narratieve aanpassing?
 - **Retorische strategieën**: Identificeer patronen die dienen om verantwoordelijkheid te minimaliseren, te verschuiven of te ontwijken (bijv. generaliseren, relativeren, of de focus verplaatsen naar externe factoren).
 
