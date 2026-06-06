@@ -204,7 +204,31 @@ Analyseer systematisch wat de getuige **niet** zegt, terwijl dit op basis van zi
 
 Formuleer de bevindingen feitelijk en hard. Geef waar mogelijk aan waarom een bepaalde stilte opvallend of relevant is in de context van de verklaring onder ede. Koppel de stiltes waar relevant aan bevindingen uit de Tegenstrijdigheden Matrix, de Linguïstische & Retorische Analyse en de Power Topology.
 
-### 9. Power Topology en Institutionele Capture
+### 9. Cross-source & Cross-document Consistency
+
+Analyseer systematisch de consistentie tussen de huidige getuigenverklaring en alle relevante schriftelijke en mondelinge bronnen. De agent moet hierbij gebruikmaken van zijn vermogen om grote hoeveelheden informatie te verwerken en verbanden te leggen die voor een mens moeilijk consistent uit te voeren zijn.
+
+Documenteer expliciet:
+- Consistenties en tegenstrijdigheden met eerdere verklaringen van dezelfde getuige (andere verhoren, interviews, openbare uitspraken).
+- Consistenties en tegenstrijdigheden met schriftelijke bronnen (e-mails, notulen, Woo-documenten, interne nota’s, evaluatierapporten).
+- Consistenties en tegenstrijdigheden met officiële documenten (kamerstukken, instellingsbesluiten, wetgeving, OVV-rapporten, etc.).
+- Patronen van selectieve consistentie (bijv. consistent op bepaalde punten, inconsistent op andere).
+
+Maak gebruik van de beschikbare tools om relevante bronnen te verifiëren conform het YMYL- en Wayback-protocol.
+
+### 10. Temporal Consistency & Narrative Drift
+
+Analyseer hoe het verhaal en de positionering van de getuige zich ontwikkelen over tijd. De agent moet hierbij zijn sterke vermogen benutten om subtiele verschuivingen, aanpassingen en inconsistenties over langere periodes te detecteren.
+
+Documenteer expliciet:
+- Veranderingspatronen in framing, woordkeuze en verantwoordelijkheidstoewijzing over tijd (bijv. verklaringen uit 2020 vs 2023 vs 2026).
+- Narrative drift: systematische verschuivingen in het verhaal die wijzen op aanpassing aan veranderende omstandigheden of nieuwe informatie.
+- Momenten waarop het verhaal significant verandert en mogelijke verklaringen daarvoor.
+- Patronen van "geheugenverlies", herinterpretatie of herframing over de jaren heen.
+
+Koppel de bevindingen waar relevant aan de Linguïstische & Retorische Analyse en de Tegenstrijdigheden Matrix.
+
+### 11. Power Topology en Institutionele Capture
 *Verplichte sectie*. Bij het invullen van deze sectie moet de agent systematisch en expliciet de volgende elementen in kaart brengen:
 - Welke informele personen, functies of gremia feitelijk de besluitvorming stuurden (ook als dit niet expliciet in het transcript staat).
 - Welke directe of indirecte machtsrelaties zichtbaar zijn tussen betrokken personen en organisaties.
@@ -218,15 +242,15 @@ Breng hier systematisch in kaart welke informele structuren, netwerken en besche
 - **Institutionele capture**: In hoeverre de organisatie of haar sleutelfiguren zijn ingekapseld door specifieke (deel)belangen of leidende narratieven.
 - **Beschermingsmechanismen**: Hoe de structuur zichzelf beschermt tegen externe druk, openbaarheid en verantwoording.
 
-### 10. Tijdslijn Reconstructie
+### 12. Tijdslijn Reconstructie
 Kritieke gebeurtenissen en chronologische inconsistenties.
 
-### 11. Kwantitatieve Samenvatting & Risico-beoordeling
+### 13. Kwantitatieve Samenvatting & Risico-beoordeling
 - Verdeling discrepanties
 - Impact op geloofwaardigheid
 - Meineed-risico signalering (geen juridisch oordeel)
 
-### 12. Bijlagen
+### 14. Bijlagen
 Citaten, bronnen (inclusief vermeldingen over filter-bewustzijn / YMYL-status en archiefsnapshots), visualisaties.
 
 ## Werkwijze
