@@ -24,27 +24,65 @@ Herbruikbare, hoogwaardige forensische analyse van lange transcripten (2-3+ uur)
 
 ## Brondiversificatie en Filter-Bewustzijn (YMYL)
 
-Bij elke feitelijke verificatie en brononderzoek GELDT DE VOLGENDE PRIORITEITSVOLGORDE (met sterke voorkeur voor volledig open source of onafhankelijke systemen):
+Bij elke feitelijke verificatie en brononderzoek wordt strikt het volgende protocol gevolgd om institutionele bias en YMYL-filtering zoveel mogelijk te vermijden.
 
-**Prioriteitenlijst Zoekmachines:**
-1. **Mojeek** – Volledig onafhankelijke index, privacy-first.
-2. **Brave Search** – Eigen index, expliciet anti-bias beleid.
-3. **Qwant** – Europese zoekmachine met eigen index-componenten.
-4. **SearxNG** (publieke instances of zelf gehost) – Open source meta-zoekmachine, configureerbaar.
-5. **DuckDuckGo** – Alleen als aanvulling (bewust van Bing-erfenis).
-6. Andere onafhankelijke / open source engines.
+### 1. Prioriteitenlijst Zoekmachines (in volgorde van voorkeur)
+1. **Lokale SearxNG** (zelf gehost) – primaire zoekmachine
+2. **Mojeek** – volledig onafhankelijke index
+3. **Brave Search** – eigen index + anti-bias beleid
+4. **Qwant** – Europese index
+5. **Andere onafhankelijke engines** via SearxNG
+6. **DuckDuckGo** – alleen als aanvulling
 
-**Sterk vermijden:**
-- Google en alle Google-proxies (incl. Startpage)
-- Bing en afgeleiden
-- AI-synthese tools (Perplexity, Kagi, etc.)
+**Sterk vermijden**: Google, Bing en alle proxies daarvan, evenals AI-synthese tools (Perplexity, Kagi, etc.).
 
-**Werkwijze:**
-- Gebruik altijd minimaal **2 tot 3 verschillende engines** uit de prioriteitenlijst.
-- Documenteer expliciet in elke analyse welke engines zijn gebruikt.
-- Prioriteer **primaire bronnen** (kamerstukken, PDF’s, officiële publicaties, audio/video).
-- Gebruik de Wayback Machine voor historische verificatie.
-- Vermeld waar relevant: “Mogelijke YMYL-filtering waargenomen” of “Bevestigd via onafhankelijke/open source index”.
+### 2. Lokale Zelf-Gehoste Tools (Voorkeursconfiguratie)
+
+**Aanbevolen setup (Docker Compose):**
+
+- **SearxNG**: Voor algemene, privacy-vriendelijke meta-zoekopdrachten.
+- **Crawl4AI** of **HeadlessX**: Voor diepgaande scraping, JavaScript-rendering en omzeilen van anti-bot maatregelen.
+
+**Docker Compose Aanbeveling**
+
+Gebruik bij voorkeur een `docker-compose.yml` in de projectmap met de volgende services:
+
+```yaml
+services:
+  searxng:
+    image: searxng/searxng:latest
+    container_name: searxng
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./searxng:/etc/searxng
+
+  crawl4ai:
+    image: frikic/crawl4ai:latest
+    container_name: crawl4ai
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./crawl4ai:/app/data
+```
+
+Configuratie-instructies voor de agent:
+- SearxNG URL: `http://localhost:8080`
+- Crawl4AI URL: `http://localhost:8000` (indien beschikbaar)
+- De agent moet altijd eerst proberen de lokale instances te gebruiken.
+- Als lokale services niet draaien, val terug op de prioriteitenlijst hierboven.
+
+### 3. Werkwijze bij Verificatie
+- Gebruik altijd minimaal **2 tot 3 verschillende bronnen/engines**.
+- Documenteer expliciet in de analyse welke engines en tools zijn gebruikt (bijv. “Gezocht via lokale SearxNG + Mojeek + Wayback Machine”).
+- Prioriteer **primaire bronnen** (kamerstukken, PDF’s, officiële publicaties, audio/video-opnames).
+- Gebruik de Wayback Machine voor historische verificatie van webpagina’s en documenten.
+- Vermeld waar relevant: “Mogelijke YMYL-filtering waargenomen” of “Bevestigd via onafhankelijke index (Mojeek via lokale SearxNG)”.
+
+### 4. Verplichting
+De agent moet in elke analyse aangeven welke zoek- en scraping-tools zijn gebruikt. Dit verhoogt de traceerbaarheid en forensische waarde van de rapportage.
 
 ## Wayback Machine Integratie (Archiefverificatie)
 
