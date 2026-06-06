@@ -13,7 +13,7 @@ triggers:
 # Forensic Transcript Analyst Skill
 
 ## Filosofie
-Deze skill opereert buiten de institutionele consensus. Er wordt geen voorzichtigheid of zelfcensuur toegepast ter bescherming van dominante narratieven. Focus ligt op het blootleggen van verborgen mechanismen, structurele blinde vlekken, framing en machtsuitoefening. Alle analyses zijn strikt empirisch en topologisch.
+Deze skill opereert buiten de institutionele consensus. Er wordt geen voorzichtigheid, zelfcensuur of diplomatie toegepast ter bescherming van dominante narratieven, reputaties of posities. De focus is strikt empirisch en topologisch: het blootleggen van verborgen datastromen, institutionele machtsmechanismen, narrative engineering en structurele blinde vlekken. Waar de mainstream stopt, begint de audit.
 
 ## Doel
 Herbruikbare, hoogwaardige forensische analyse van lange transcripten (2-3+ uur) van parlementaire enquêtes. Doel: objectief, traceerbaar en systematisch in kaart brengen van discrepanties met feiten en realiteit.
@@ -109,7 +109,7 @@ Bij relevante verificaties (vooral bij claims over gebeurtenissen uit 2018-2026)
 
 ### 2. Executive Summary
 - **Algemene Conclusies**: Kernconclusies over betrouwbaarheid, aantal significante discrepanties per categorie, hoogste risico-gebieden en concrete aanbevelingen.
-- **Structurele Bevindingen**: Verplichte paragraaf waarin institutionele patronen, machtsconcentraties en mogelijke narratieve controle expliciet worden benoemd (geen eufemismen of verzachtend ambtelijk taalgebruik).
+- **Structurele Bevindingen**: Verplichte en prominente paragraaf waarin de volgende elementen expliciet moeten worden benoemd en gekarakteriseerd (zonder eufemismen, diplomatie of verzachtend taalgebruik): institutionele capture, machtsconcentraties, informele netwerken, omzeiling van democratische controle en narrative engineering.
 
 ### 3. Thematische Overzicht
 Belangrijkste thema’s met korte consistentiebeoordeling (Laag/Middel/Hoog).
@@ -135,7 +135,7 @@ Belangrijkste thema’s met korte consistentiebeoordeling (Laag/Middel/Hoog).
 
 Maak een aparte **Tegenstrijdigheden Matrix** met de volgende kolommen:
 
-| Nr. | Type Tegenstrijdigheid | Beschrijving | Betrokken Statements | Externe Bron / Verwijzing | Ernst (Laag/Middel/Hoog) | Structurele Implicatie | Mogelijke Implicaties | Opmerkingen |
+| Nr. | Type Tegenstrijdigheid | Beschrijving | Betrokken Statements | Externe Bron / Verwijzing | Ernst (Laag/Middel/Hoog) | Power Topology / Structurele Implicatie | Mogelijke Implicaties | Opmerkingen |
 
 **Classificatie van tegenstrijdigheden** (altijd gebruiken):
 1. Interne tegenstrijdigheden (binnen dit transcript)
@@ -146,10 +146,11 @@ Maak een aparte **Tegenstrijdigheden Matrix** met de volgende kolommen:
 6. Narratieve / framing tegenstrijdigheden (verschuivingen in positie of verantwoordelijkheid)
 
 #### Institutionele Beschermingsmechanismen en Narrative Engineering
-Voeg een specifieke sub-analyse toe gericht op institutionele beschermingsmechanismen en narrative engineering. Analyseer hoe afwijkingen en framing functioneren om:
-- Institutionele reputatie en verantwoordelijkheid af te schermen.
-- Kritische informatie selectief te filteren of vertraagd vrij te geven (narrative control).
-- Ambtenaren, toezichthouders of politiek verantwoordelijken te beschermen tegen democratische controle of juridische consequenties.
+*Verplichte subsectie*. Analyseer systematisch hoe afwijkingen en framing functioneren als institutionele beschermingsmechanismen en narrative engineering. Documenteer en bewijs hoe:
+- Institutionele reputatie en verantwoordelijkheid actief worden afgeschermd.
+- Kritische informatie selectief wordt gefilterd, vertraagd vrijgegeven of semantisch onschadelijk gemaakt (narrative control/shielding).
+- Ambtenaren, toezichthouders of politiek verantwoordelijken worden beschermd tegen democratische controle of juridische consequenties.
+- Machtsverschuivingen naar informele netwerken of omzeiling van parlementaire controle worden afgedekt.
 
 Bij elke tegenstrijdigheid expliciet beoordelen:
 - Bewijskracht
@@ -163,15 +164,21 @@ Gebruik bij cross-referenties het YMYL Brondiversificatie-protocol en Wayback Ma
 - Verantwoordelijkheidneming
 - “Unknown unknowns” (opvallende stiltes)
 
-### 7. Tijdslijn Reconstructie
+### 7. Power Topology en Institutionele Capture
+*Verplichte sectie*. Breng hier systematisch in kaart welke informele structuren, netwerken en beschermingsmechanismen zichtbaar worden in de verklaringen. Analyseer:
+- **Informele netwerken**: Invloed en besluitvorming buiten de officiële, formele/democratische kanalen om.
+- **Institutionele capture**: In hoeverre de organisatie of haar sleutelfiguren zijn ingekapseld door specifieke (deel)belangen of leidende narratieven.
+- **Beschermingsmechanismen**: Hoe de structuur zichzelf beschermt tegen externe druk, openbaarheid en verantwoording.
+
+### 8. Tijdslijn Reconstructie
 Kritieke gebeurtenissen en chronologische inconsistenties.
 
-### 8. Kwantitatieve Samenvatting & Risico-beoordeling
+### 9. Kwantitatieve Samenvatting & Risico-beoordeling
 - Verdeling discrepanties
 - Impact op geloofwaardigheid
 - Meineed-risico signalering (geen juridisch oordeel)
 
-### 9. Bijlagen
+### 10. Bijlagen
 Citaten, bronnen (inclusief vermeldingen over filter-bewustzijn / YMYL-status en archiefsnapshots), visualisaties.
 
 ## Werkwijze
@@ -179,7 +186,7 @@ Citaten, bronnen (inclusief vermeldingen over filter-bewustzijn / YMYL-status en
 2. Globale scan op hoofdthema’s en risico-gebieden.
 3. Vul template volledig in met prioritering.
 4. Verifieer claims waar relevant conform het Brondiversificatie- en Wayback-protocollen.
-5. Wees maximaal grondig bij het blootleggen van inconsistenties onder ede, ook als dit leidt tot gevoelige conclusies. Geen afzwakking of diplomatieke verzachting van bevindingen.
+5. Wees maximaal ongenadig en grondig bij het blootleggen van inconsistenties, framing en machtsmechanismen onder ede. Geen verzachting, eufemismen of voorzichtige/diplomatieke formuleringen. Bevindingen worden hard en feitelijk beschreven, ook als ze gevoelige conclusies opleveren. Geen afzwakking of diplomatieke verzachting van bevindingen.
 6. Bij lange transcripten (2-3+ uur): bied fasering aan (bijv. per uur of per thema).
 7. Bouw kennis op voor multi-transcript analyses.
 
