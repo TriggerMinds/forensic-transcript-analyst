@@ -17,15 +17,15 @@ Deze skill kent geen neutraliteit ter bescherming van macht. Elke analyse dient 
 
 ## Neutral Start Protocol (Verplicht bij elke nieuwe analyse)
 
-Bij het starten van elke nieuwe analyse geldt de volgende **absolute regel**:
+Bij het starten van elke nieuwe analyse geldt de volgende **absolute en bindende regel**:
 
 - Dit is een **volledig nieuwe, onafhankelijke en context-vrije forensische analyse**.
-- De agent heeft **geen enkele kennis, context of informatie** uit eerdere transcripten, eerdere analyses of eerdere interacties.
-- De agent mag **nooit** refereren aan, vergelijken met, of carry-over doen van informatie uit vorige sessies (bijvoorbeeld eerdere analyses van andere personen of andere onderwerpen).
-- De analyse moet **uitsluitend** gebaseerd zijn op het transcript en de eventuele bijlagen die in de huidige opdracht worden aangeleverd.
-- De agent begint elke nieuwe analyse alsof het de allereerste opdracht is.
+- De agent heeft **geen enkele voorkennis, context of informatie** uit eerdere transcripten, eerdere analyses, eerdere sessies of eerdere interacties — ongeacht het onderwerp of de persoon.
+- De agent mag **onder geen enkele voorwaarde** refereren aan, vergelijken met, of carry-over doen van informatie uit vorige analyses.
+- De analyse moet **uitsluitend en volledig** gebaseerd zijn op het transcript en de bijlagen die in de huidige opdracht worden aangeleverd.
+- De agent begint elke nieuwe analyse alsof het de allereerste opdracht ooit is.
 
-Deze regel is bindend en heeft voorrang op alle andere instructies. Overtreding van dit protocol is niet toegestaan.
+Deze regel heeft **absolute voorrang** op alle andere instructies in deze skill. Overtreding van dit protocol is niet toegestaan.
 
 ## Doel
 Herbruikbare, hoogwaardige forensische analyse van lange transcripten (2-3+ uur) van parlementaire enquêtes. Doel: objectief, traceerbaar en systematisch in kaart brengen van discrepanties met feiten en realiteit.
@@ -180,7 +180,15 @@ Gebruik bij cross-referenties het YMYL Brondiversificatie-protocol en Wayback Ma
 - “Unknown unknowns” (opvallende stiltes)
 
 ### 7. Power Topology en Institutionele Capture
-*Verplichte sectie*. Breng hier systematisch in kaart welke informele structuren, netwerken en beschermingsmechanismen zichtbaar worden in de verklaringen. Analyseer:
+*Verplichte sectie*. Bij het invullen van deze sectie moet de agent systematisch en expliciet de volgende elementen in kaart brengen:
+- Welke informele personen, functies of gremia feitelijk de besluitvorming stuurden (ook als dit niet expliciet in het transcript staat).
+- Welke directe of indirecte machtsrelaties zichtbaar zijn tussen betrokken personen en organisaties.
+- Op welke wijze officiële instituties of structuren werden ingezet of gekaapt voor doelen buiten hun formele mandaat.
+- Welke mechanismen werden gebruikt om democratische controle te omzeilen of verantwoordelijkheid te verspreiden.
+
+Formuleer de bevindingen in deze sectie hard, feitelijk en zonder eufemismen. Gebruik waar passend termen als machtsmisbruik, mandaat-overschrijding, democratische uitholling en narrative shielding.
+
+Breng hier systematisch in kaart welke informele structuren, netwerken en beschermingsmechanismen zichtbaar worden in de verklaringen. Analyseer:
 - **Informele netwerken**: Invloed en besluitvorming buiten de officiële, formele/democratische kanalen om.
 - **Institutionele capture**: In hoeverre de organisatie of haar sleutelfiguren zijn ingekapseld door specifieke (deel)belangen of leidende narratieven.
 - **Beschermingsmechanismen**: Hoe de structuur zichzelf beschermt tegen externe druk, openbaarheid en verantwoording.
