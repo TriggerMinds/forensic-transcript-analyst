@@ -6,7 +6,7 @@ This directory contains instructions for managing the local search and crawling 
 1. **SearxNG**: Privacy-focused meta-search engine exposing a clean interface and JSON API.
    - Address: `http://localhost:8080`
 2. **Crawl4AI**: High-performance crawling service for LLM-ready markdown extraction.
-   - Address: `http://localhost:8000`
+   - Address: `http://localhost:11235`
 
 ---
 
@@ -50,7 +50,7 @@ docker compose up -d
 ---
 
 ## Important Considerations
-- **Port Conflicts**: Ensure that ports `8080` and `8000` are free on your host machine before starting.
+- **Port Conflicts**: Ensure that ports `8080` and `11235` are free on your host machine before starting.
 - **Persistent Data**: 
   - SearxNG configuration is located in `./searxng/settings.yml`.
   - Crawl4AI cache and browser profiles are stored in `./crawl4ai/`.
