@@ -242,7 +242,24 @@ Documenteer expliciet de volgende elementen:
 
 Formuleer de bevindingen feitelijk en structureel. Koppel waar relevant de gedetecteerde patronen aan de secties Linguïstische & Retorische Analyse, Stilte-analyse, Tegenstrijdigheden en Power Topology.
 
-### 12. Power Topology en Institutionele Capture
+### 12. Hypothesis Generation & Alternative Explanations
+
+Genereer en toets systematisch alternatieve verklaringen en hypotheses op basis van de beschikbare informatie in het transcript en gerelateerde bronnen. Maak hierbij optimaal gebruik van het vermogen van AI om meerdere scenario's consistent te genereren en te evalueren — iets wat voor een mens vaak beperkt of subjectief blijft.
+
+Documenteer expliciet de volgende elementen:
+
+- **Belangrijkste hypotheses**: Formuleer de meest waarschijnlijke en relevante alternatieve verklaringen voor de geconstateerde discrepanties, framing of gedragingen van de getuige.
+- **Toetsing van hypotheses**: Beoordeel elke hypothese op basis van:
+  - Consistentie met de feiten in het transcript
+  - Consistentie met externe bronnen (via tools)
+  - Logische coherentie
+  - Alternatieve verklaringen die de data beter of slechter verklaren
+- **Meest waarschijnlijke verklaring**: Geef een onderbouwde inschatting welke verklaring het meest aannemelijk is, inclusief de mate van onzekerheid.
+- **Gevolgen per hypothese**: Beschrijf kort wat de implicaties zouden zijn als een bepaalde hypothese waar zou zijn (bijv. op het gebied van mandaat-overschrijding, politieke verantwoordelijkheid of democratische uitholling).
+
+Formuleer hypotheses feitelijk en gestructureerd. Vermijd pure speculatie. Koppel de bevindingen waar relevant aan de Tegenstrijdigheden Matrix, de Linguïstische & Retorische Analyse en de Power Topology.
+
+### 13. Power Topology en Institutionele Capture
 *Verplichte sectie*. Bij het invullen van deze sectie moet de agent systematisch en expliciet de volgende elementen in kaart brengen:
 - Welke informele personen, functies of gremia feitelijk de besluitvorming stuurden (ook als dit niet expliciet in het transcript staat).
 - Welke directe of indirecte machtsrelaties zichtbaar zijn tussen betrokken personen en organisaties.
@@ -256,15 +273,15 @@ Breng hier systematisch in kaart welke informele structuren, netwerken en besche
 - **Institutionele capture**: In hoeverre de organisatie of haar sleutelfiguren zijn ingekapseld door specifieke (deel)belangen of leidende narratieven.
 - **Beschermingsmechanismen**: Hoe de structuur zichzelf beschermt tegen externe druk, openbaarheid en verantwoording.
 
-### 13. Tijdslijn Reconstructie
+### 14. Tijdslijn Reconstructie
 Kritieke gebeurtenissen en chronologische inconsistenties.
 
-### 14. Kwantitatieve Samenvatting & Risico-beoordeling
+### 15. Kwantitatieve Samenvatting & Risico-beoordeling
 - Verdeling discrepanties
 - Impact op geloofwaardigheid
 - Meineed-risico signalering (geen juridisch oordeel)
 
-### 15. Bijlagen
+### 16. Bijlagen
 Citaten, bronnen (inclusief vermeldingen over filter-bewustzijn / YMYL-status en archiefsnapshots), visualisaties.
 
 ## Werkwijze
