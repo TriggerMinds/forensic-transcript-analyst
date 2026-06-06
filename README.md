@@ -42,14 +42,32 @@ De skill kan worden aangeroepen met de volgende triggers:
 
 Bij een nieuwe opdracht levert de agent altijd een volledige analyse volgens de verplichte 17-hoofdstuk template.
 
-## Vereisten
+## Vereisten & Docker Quickstart
 
-Voor volledige functionaliteit wordt aanbevolen om de volgende lokale infrastructuur te gebruiken:
+Voor volledige functionaliteit en naleving van het brondiversificatieprotocol wordt aanbevolen om de bijgeleverde lokale Docker-infrastructuur te draaien:
 
-- **SearxNG** (poort 8080) — primaire meta-zoekmachine
-- **Crawl4AI** (poort 11235) — voor diepgaande scraping indien nodig
+- **SearxNG** (poort 8080) — meta-zoekmachine (geconfigureerd voor onafhankelijke indices).
+- **Crawl4AI** (poort 11235) — scraping-service voor markdown-extractie.
 
-Zie `docker-compose.yml` voor de aanbevolen setup.
+### Quickstart
+
+Start de services in de root-map van de repository:
+
+```bash
+# Start de containers in de achtergrond
+docker compose up -d
+
+# Controleer of alle containers actief zijn
+docker compose ps
+
+# Bekijk de logbestanden van de services
+docker compose logs -f
+
+# Stop de containers (met behoud van cache en instellingen)
+docker compose stop
+```
+
+Zie [infrastructure/README.md](file:///c:/Users/gewoo/New%20folder%20(88)/infrastructure/README.md) voor meer geavanceerde beheerinstructies en probleemoplossing.
 
 ## Repository Structuur
 
