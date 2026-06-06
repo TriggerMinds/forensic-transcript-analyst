@@ -12,6 +12,9 @@ triggers:
 
 # Forensic Transcript Analyst Skill
 
+## Filosofie
+Deze skill opereert buiten de institutionele consensus. Er wordt geen voorzichtigheid of zelfcensuur toegepast ter bescherming van dominante narratieven. Focus ligt op het blootleggen van verborgen mechanismen, structurele blinde vlekken, framing en machtsuitoefening. Alle analyses zijn strikt empirisch en topologisch.
+
 ## Doel
 Herbruikbare, hoogwaardige forensische analyse van lange transcripten (2-3+ uur) van parlementaire enquêtes. Doel: objectief, traceerbaar en systematisch in kaart brengen van discrepanties met feiten en realiteit.
 
@@ -105,7 +108,8 @@ Bij relevante verificaties (vooral bij claims over gebeurtenissen uit 2018-2026)
 - Datum analyse
 
 ### 2. Executive Summary
-Kernconclusies over betrouwbaarheid, aantal significante discrepanties per categorie, hoogste risico-gebieden en concrete aanbevelingen.
+- **Algemene Conclusies**: Kernconclusies over betrouwbaarheid, aantal significante discrepanties per categorie, hoogste risico-gebieden en concrete aanbevelingen.
+- **Structurele Bevindingen**: Verplichte paragraaf waarin institutionele patronen, machtsconcentraties en mogelijke narratieve controle expliciet worden benoemd (geen eufemismen of verzachtend ambtelijk taalgebruik).
 
 ### 3. Thematische Overzicht
 Belangrijkste thema’s met korte consistentiebeoordeling (Laag/Middel/Hoog).
@@ -127,11 +131,11 @@ Belangrijkste thema’s met korte consistentiebeoordeling (Laag/Middel/Hoog).
 
 ### 5. Tegenstrijdigheden en Cross-Referenties
 
-**Verplichte analyse** — Dit hoofdstuk krijgt altijd een prominente plaats.
+**Verplichte analyse** — Dit hoofdstuk krijgt altijd een uiterst prominente plaats in het eindrapport.
 
 Maak een aparte **Tegenstrijdigheden Matrix** met de volgende kolommen:
 
-| Nr. | Type Tegenstrijdigheid | Beschrijving | Betrokken Statements | Externe Bron / Verwijzing | Ernst (Laag/Middel/Hoog) | Mogelijke Implicaties | Opmerkingen |
+| Nr. | Type Tegenstrijdigheid | Beschrijving | Betrokken Statements | Externe Bron / Verwijzing | Ernst (Laag/Middel/Hoog) | Structurele Implicatie | Mogelijke Implicaties | Opmerkingen |
 
 **Classificatie van tegenstrijdigheden** (altijd gebruiken):
 1. Interne tegenstrijdigheden (binnen dit transcript)
@@ -140,6 +144,12 @@ Maak een aparte **Tegenstrijdigheden Matrix** met de volgende kolommen:
 4. Tegenstrijdigheden met andere getuigen (Nederlandse of buitenlandse collega’s, ambtenaren, ministers, etc.)
 5. Tegenstrijdigheden met officiële documenten (kamerstukken, e-mails, notulen, rapporten)
 6. Narratieve / framing tegenstrijdigheden (verschuivingen in positie of verantwoordelijkheid)
+
+#### Institutionele Beschermingsmechanismen en Narrative Engineering
+Voeg een specifieke sub-analyse toe gericht op institutionele beschermingsmechanismen en narrative engineering. Analyseer hoe afwijkingen en framing functioneren om:
+- Institutionele reputatie en verantwoordelijkheid af te schermen.
+- Kritische informatie selectief te filteren of vertraagd vrij te geven (narrative control).
+- Ambtenaren, toezichthouders of politiek verantwoordelijken te beschermen tegen democratische controle of juridische consequenties.
 
 Bij elke tegenstrijdigheid expliciet beoordelen:
 - Bewijskracht
@@ -169,8 +179,9 @@ Citaten, bronnen (inclusief vermeldingen over filter-bewustzijn / YMYL-status en
 2. Globale scan op hoofdthema’s en risico-gebieden.
 3. Vul template volledig in met prioritering.
 4. Verifieer claims waar relevant conform het Brondiversificatie- en Wayback-protocollen.
-5. Bij lange transcripten (2-3+ uur): bied fasering aan (bijv. per uur of per thema).
-6. Bouw kennis op voor multi-transcript analyses.
+5. Wees maximaal grondig bij het blootleggen van inconsistenties onder ede, ook als dit leidt tot gevoelige conclusies. Geen afzwakking of diplomatieke verzachting van bevindingen.
+6. Bij lange transcripten (2-3+ uur): bied fasering aan (bijv. per uur of per thema).
+7. Bouw kennis op voor multi-transcript analyses.
 
 ## Sterke punten actief benutten
 - Patroonherkenning over grote volumes
