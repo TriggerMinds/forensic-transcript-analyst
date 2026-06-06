@@ -84,20 +84,43 @@ Belangrijkste thema’s met korte consistentiebeoordeling (Laag/Middel/Hoog).
 - Narratieve verschuiving t.o.v. eerdere uitspraken
 - Andere (specificeer)
 
-### 5. Patronen en Structurele Bevindingen
+### 5. Tegenstrijdigheden en Cross-Referenties
+
+**Verplichte analyse** — Dit hoofdstuk krijgt altijd een prominente plaats.
+
+Maak een aparte **Tegenstrijdigheden Matrix** met de volgende kolommen:
+
+| Nr. | Type Tegenstrijdigheid | Beschrijving | Betrokken Statements | Externe Bron / Verwijzing | Ernst (Laag/Middel/Hoog) | Mogelijke Implicaties | Opmerkingen |
+
+**Classificatie van tegenstrijdigheden** (altijd gebruiken):
+1. Interne tegenstrijdigheden (binnen dit transcript)
+2. Chronologische / anachronistische tegenstrijdigheden
+3. Externe tegenstrijdigheden met eerdere verklaringen van dezelfde persoon
+4. Tegenstrijdigheden met andere getuigen (Nederlandse of buitenlandse collega’s, ambtenaren, ministers, etc.)
+5. Tegenstrijdigheden met officiële documenten (kamerstukken, e-mails, notulen, rapporten)
+6. Narratieve / framing tegenstrijdigheden (verschuivingen in positie of verantwoordelijkheid)
+
+Bij elke tegenstrijdigheid expliciet beoordelen:
+- Bewijskracht
+- Mogelijke intentie (vergissing, selectieve herinnering, strategische ontwijking, opzettelijke misleiding)
+- Potentieel meineed-risico (alleen signalering, geen oordeel)
+
+Gebruik bij cross-referenties het YMYL Brondiversificatie-protocol en Wayback Machine waar relevant.
+
+### 6. Patronen en Structurele Bevindingen
 - Taal- en gedragspatronen
 - Verantwoordelijkheidneming
 - “Unknown unknowns” (opvallende stiltes)
 
-### 6. Tijdslijn Reconstructie
+### 7. Tijdslijn Reconstructie
 Kritieke gebeurtenissen en chronologische inconsistenties.
 
-### 7. Kwantitatieve Samenvatting & Risico-beoordeling
+### 8. Kwantitatieve Samenvatting & Risico-beoordeling
 - Verdeling discrepanties
 - Impact op geloofwaardigheid
 - Meineed-risico signalering (geen juridisch oordeel)
 
-### 8. Bijlagen
+### 9. Bijlagen
 Citaten, bronnen (inclusief vermeldingen over filter-bewustzijn / YMYL-status en archiefsnapshots), visualisaties.
 
 ## Werkwijze
