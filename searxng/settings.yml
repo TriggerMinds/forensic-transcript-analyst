@@ -1,0 +1,15 @@
+# SearXNG settings
+
+use_default_settings: true
+
+server:
+  port: 8080
+  bind_address: "0.0.0.0"
+  secret_key: "supersecretkeyforforensictranscriptanalyst12345"
+  base_url: false
+  image_proxy: true
+
+search:
+  safe_search: 0
+  autocomplete: "duckduckgo"
+  default_locale: "nl"

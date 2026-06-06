@@ -8,6 +8,10 @@ This repository contains the `forensic-transcript-analyst` skill for the Antigra
 - `skills/forensic-transcript-analyst/examples/`: Place reference implementations or example transcript analyses here.
 - `skills/forensic-transcript-analyst/resources/`: Place templates, schemas, assets, or configuration files here.
 - `skills/forensic-transcript-analyst/references/`: Place additional documentation, guidelines, or research papers here.
+- `docker-compose.yml`: Local Docker environment configuration for SearxNG and Crawl4AI.
+- `infrastructure/README.md`: Detailed startup and management guide for the Docker services.
 
 ## How to use
-Copy the skill configuration folder to your local or global `.gemini/config/skills/` directory (or `.agent/skills/`). The assistant will automatically pick up the triggers defined in the frontmatter of `SKILL.md`.
+1. Copy the skill configuration folder to your local or global `.gemini/config/skills/` directory (or `.agent/skills/`). The assistant will automatically pick up the triggers defined in the frontmatter of `SKILL.md`.
+2. Deploy the local search and crawling infrastructure by running `docker compose up -d` in the root of the project. See [infrastructure/README.md](file:///c:/Users/gewoo/New%20folder%20%2888%29/infrastructure/README.md) for more details.
+
